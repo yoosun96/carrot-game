@@ -16,7 +16,7 @@ body {
   width: 800px;
   height: 500px;
   margin: auto;
-  background: url(img/background.png) center/cover;
+  background: url(./img/background.png) center/cover;
 }
 
 .game__header {
